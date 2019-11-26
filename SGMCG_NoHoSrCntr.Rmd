@@ -210,6 +210,6 @@ _"Now thinking about your mental health, which includes stress, depression, and 
 `r icon::fa("twitter")` [@bencapistrant](http://www.github.com/bencapistrant) |
 `r icon::fa("github")` [brfssR](http://www.github.com/bencapistrant/brfssR)
 
-<img src="ssw_logo.jpeg" alt="drawing" width="200"/> <img src="sc_sds_hex.jpg" alt="drawing" width="100"/>
+<img src="ssw_logo.jpeg" alt="drawing" width="200"/> <img src="SC_sds_hex.jpg" alt="drawing" width="100"/>
 
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
